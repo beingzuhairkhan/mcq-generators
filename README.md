@@ -1,5 +1,5 @@
 # mcq_generator
-
+The MCQ Generator is a web application built to streamline the creation of multiple-choice questions (MCQs) using LangChain technology. This tool allows users to upload text documents (PDF or TXT), specify the number of MCQs needed, select the subject and complexity level, and generate MCQs automatically. It leverages AI-powered natural language processing to analyze text content and produce relevant MCQs. The application is hosted on AWS and accessible via the provided link.http://13.60.88.220:8501/
 
 
 ## Getting started
