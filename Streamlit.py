@@ -13,7 +13,7 @@ from src.mcqGen.McqGen import generate_evaluate_chain
 load_dotenv()
 
 # Load response JSON
-response_path = 'C:\\Users\\zuhai\\OneDrive\\Desktop\\PROJECT2\\MCQ_GENERATOR\\Response.json'
+response_path = 'Response.json'
 if os.path.exists(response_path):
     with open(response_path, 'r') as file:
         RESPONSE_JSON = json.load(file)
